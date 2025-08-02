@@ -5,8 +5,8 @@
 </div>
 <ul>
   <li> 💻 FullStack React developer (Next.js) </li> <br/>
-   📌 Sumy, Ukraine<br/>
-   📫 How to reach me: <br/>
+  <li> 📌 Sumy, Ukraine </li> <br/>
+  <li> 📫 How to reach me: </li> <br/>
 </ul>
 
 <div align="center">
