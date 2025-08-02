@@ -9,11 +9,10 @@
   <li> 📌 Sumy, Ukraine </li>
   <li> 📫 How to reach me: </li>
 </ul>
-<code>
+<a>
 <img <a href="mailto:olegkazhan@gmail.com">
   <img src="https://img.shields.io/badge/OLEGKAZHAN@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-</code>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RocketReact&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
