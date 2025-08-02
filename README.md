@@ -1,4 +1,4 @@
-![Profile views] https://gpvc.arturio.dev/RocketReact
+![](https://komarev.com/ghpvc/?username=RocketReact&color=blue&style=flat)
 
 <!--
 **RocketReact/RocketReact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
