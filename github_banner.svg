@@ -78,7 +78,7 @@
   </text>
   
   <!-- Name with gradient and glow -->
-  <text x="600" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="url(#textGradient)" filter="url(#glow)">
+  <text x="600" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="96" font-weight="bold" fill="url(#textGradient)" filter="url(#glow)">
     Shapoval Oleg
   </text>
   
