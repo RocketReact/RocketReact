@@ -3,6 +3,10 @@
 <div align="center">
   <img src="./github_banner.svg" alt="Header"/>
 </div>
+💻 FullStack React developer (Next.js)
+📌 Sumy, Ukraine
+📫 How to reach me:
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RocketReact&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
