@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/OLEGKAZHAN@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a> 
 <a href="https://www.linkedin.com/in/oleg-shapoval-ba1203125/" rel="nofollow">
-  <img src="https://img.shields.io/badge/LinkedIn-blue-0e76a8?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
 
