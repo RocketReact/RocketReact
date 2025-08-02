@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="data:image/svg+xml;base64,[BASE64_ENCODED_SVG]" alt="Header"/>
-</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RocketReact&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </div>
