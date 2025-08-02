@@ -3,6 +3,7 @@
 <div align="center">
   <img src="./github_banner.svg" alt="Header"/>
 </div>
+<br/>
 <ul>
   <li> 💻 FullStack React developer (Next.js) </li> 
   <li> 📌 Sumy, Ukraine </li>
