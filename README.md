@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=RocketReact&color=blue&style=flat)
 
-
+<div align="center">
+  <img src="data:image/svg+xml;base64,[BASE64_ENCODED_SVG]" alt="Header"/>
+</div>
 <!--
 **RocketReact/RocketReact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
