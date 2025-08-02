@@ -11,7 +11,12 @@
 </ul>
 <a href="mailto:olegkazhan@gmail.com">
   <img src="https://img.shields.io/badge/OLEGKAZHAN@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a> 
+<a href="https://www.linkedin.com/in/oleg-shapoval-ba1203125/" rel="nofollow">
+  <img src="https://img.shields.io/badge/LinkedIn-blue-0e76a8?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin"/>
 </a>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RocketReact&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
