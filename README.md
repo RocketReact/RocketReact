@@ -3,9 +3,9 @@
 <div align="center">
   <img src="./github_banner.svg" alt="Header"/>
 </div>
-💻 FullStack React developer (Next.js)
-📌 Sumy, Ukraine
-📫 How to reach me:
+💻 FullStack React developer (Next.js) <br/>
+📌 Sumy, Ukraine<br/>
+📫 How to reach me: <br/>
 
 
 <div align="center">
