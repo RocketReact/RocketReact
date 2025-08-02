@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Telegram-0e76a8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </ul>
+<hr> 
+</hr>
 
 
 
