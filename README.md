@@ -20,9 +20,7 @@
 </ul>
 <hr> 
 </hr>
-<br/>  
-<br/>
-<h2> Main technology stack </h2>
+ <h2> Main technology stack </h2>
 
 
 
