@@ -8,6 +8,7 @@
   <li> 💻 FullStack React developer (Next.js) </li> 
   <li> 📌 Sumy, Ukraine </li>
   <li> 📫 How to reach me: </li>
+  <br/>
   <a href="mailto:olegkazhan@gmail.com">
   <img src="https://img.shields.io/badge/OLEGKAZHAN@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a> 
