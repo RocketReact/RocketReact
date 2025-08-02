@@ -4,9 +4,9 @@
   <img src="./github_banner.svg" alt="Header"/>
 </div>
 <ul>
-  <li> 💻 FullStack React developer (Next.js) </li> <br/>
-  <li> 📌 Sumy, Ukraine </li> <br/>
-  <li> 📫 How to reach me: </li> <br/>
+  <li> 💻 FullStack React developer (Next.js) </li> 
+  <li> 📌 Sumy, Ukraine </li>
+  <li> 📫 How to reach me: </li>
 </ul>
 
 <div align="center">
