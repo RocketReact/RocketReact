@@ -8,13 +8,14 @@
   <li> 💻 FullStack React developer (Next.js) </li> 
   <li> 📌 Sumy, Ukraine </li>
   <li> 📫 How to reach me: </li>
-</ul>
-<a href="mailto:olegkazhan@gmail.com">
+  <a href="mailto:olegkazhan@gmail.com">
   <img src="https://img.shields.io/badge/OLEGKAZHAN@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a> 
 <a href="https://www.linkedin.com/in/oleg-shapoval-ba1203125/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
+</ul>
+
 
 
 
