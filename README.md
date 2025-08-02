@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/oleg-shapoval-ba1203125/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
+  <a href="https://t.me/rehbandukraine" rel="nofollow">
+  <img src="https://img.shields.io/badge/Telegram-0e76a8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 </ul>
 
 
